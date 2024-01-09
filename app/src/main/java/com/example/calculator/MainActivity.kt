@@ -235,18 +235,3 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-//
-//"sqrt" -> {
-//    if (firstOperand >= 0.0) {
-//        firstOperand = sqrt(firstOperand)
-//    } else {
-//        Toast.makeText(
-//            this@MainActivity,
-//            "Invalid Input for Square Root",
-//            Toast.LENGTH_SHORT
-//        ).show()
-//        ClearAll()
-//        tv1.text = "Error"
-//        return
-//    }
-//}
